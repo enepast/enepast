@@ -1,5 +1,5 @@
 Greetings stranger, I’m @enepast and my name is Dario Nieva Pastoriza. I’m interested in gardening, pets and programming languages.
-I’m currently studying Computational engineer, learning Javascript / Java and working in Adistec.
+I’m currently studying Computational engineering, learning Javascript / Java and working in Adistec.
 - 📫 How to reach me:
 
 https://www.linkedin.com/in/dario-nieva-pastoriza <->
