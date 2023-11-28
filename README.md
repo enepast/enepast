@@ -2,8 +2,8 @@ Greetings stranger, I’m @enepast and my name is Dario Nieva Pastoriza. I’m i
 I’m currently studying Computational engineering, learning Javascript / Java and working in Adistec.
 - 📫 How to reach me:
 
-https://www.linkedin.com/in/dario-nieva-pastoriza <->
-daronieva@gmail.com
+[https://www.linkedin.com/in/dario-nieva-pastoriza](https://www.linkedin.com/in/dario-nieva/) <->
+[https://twitter.com/cosaDeDevs](https://twitter.com/cosaDeDevs)
 
 <!---
 enepast/enepast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
