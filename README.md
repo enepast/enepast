@@ -1,6 +1,8 @@
-Greetings stranger, I’m @enepast and my name is Dario Nieva Pastoriza. I’m interested in gardening, pets and programming languages.
-I’m currently studying Computational engineering, learning Javascript / Java and working in Adistec.
-- 📫 How to reach me:
+ <h3 align="center">¡Hey 👋! I am Dario Nieva 👨🏻‍💻</h3>
+</p>
+
+<p align="center"><strong>Java & NetSuite Developer</strong> with 3 and 2 years of experience.</p>
+<p align="center">- 📫 How to reach me: </p>
 
 [https://www.linkedin.com/in/dario-nieva-pastoriza](https://www.linkedin.com/in/dario-nieva/) <->
 [https://twitter.com/cosaDeDevs](https://twitter.com/cosaDeDevs)
