@@ -1,10 +1,10 @@
  <h3 align="center">¡Hey 👋! I am Dario Nieva 👨🏻‍💻</h3>
 </p>
 
-<p align="center"><strong>Java & NetSuite Developer</strong> with 3 and 2 years of experience.</p>
+<p align="center"><strong>Java & NetSuite Developer</strong> with 4 years of experience.</p>
 <p align="center">- 📫 How to reach me: </p>
 
-[https://www.linkedin.com/in/dario-nieva-pastoriza](https://www.linkedin.com/in/dario-nieva/) <->
+[https://www.linkedin.com/in/dario-nieva-pastoriza](asd) <->
 [https://twitter.com/cosaDeDevs](https://twitter.com/cosaDeDevs)
 
 <!---
