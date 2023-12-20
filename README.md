@@ -1,15 +1,23 @@
- <h3 align="center">¡Hey 👋! I am Dario Nieva 👨🏻‍💻</h3>
-</p>
+<p><em>A Java & NetSuite dev. </br>
+</em></p>
 
-<p align="center"><strong>Java & NetSuite Developer</strong> with 4 years of experience.</p>
-<p align="center">📫 How to reach me: 
-<a href="https://twitter.com/cosaDeDevs" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
-  </a>
-[Linkedin](https://www.linkedin.com/in/dario-nieva/)<br>
-[Twitter](https://twitter.com/cosaDeDevs)
-</p>
-<!---
-enepast/enepast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+```javascript
+const aboutMe = {
+   code: ["Java", "JavaScript", "NetSuite", "HTML", "CSS"],
+   technologies: {
+      backEnd: {
+         java: ["Java 8+", "Spring Framework", "Hibernate"],
+         js: ["Vanilla", "SuiteScript"],
+         misc: ["Linux", "Maven", "Docker", "JUnit", "Mockito", "Git"]
+      },
+      frontEnd: {
+         js: ["ReactJS"],
+         css: ["Bootstrap", "Styled Components", "Modules"]
+      },
+      databases: ["mySQL", "PostgreSQL", "MongoDB"],
+      messaging: ["Apache Kafka"],
+      suiteTools: ["NetSuite", "SuiteBuilder"],
+   },
+};
+```
