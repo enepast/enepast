@@ -9,7 +9,7 @@ const aboutMe = {
       backEnd: {
          java: ["Java 8+", "Spring Framework", "Hibernate"],
          js: ["Vanilla", "SuiteScript"],
-         misc: ["Linux", "Maven", "Docker", "JUnit", "Mockito", "Git"]
+         misc: ["Linux", "Maven", "JUnit", "Mockito", "Git", "Microservices Architecture"],
       },
       frontEnd: {
          js: ["ReactJS"],
@@ -17,6 +17,7 @@ const aboutMe = {
       },
       databases: ["mySQL", "PostgreSQL", "MongoDB"],
       messaging: ["Apache Kafka"],
+      containerization: ["Docker"],
       suiteTools: ["NetSuite", "SuiteBuilder"],
    },
 };
