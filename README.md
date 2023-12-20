@@ -2,9 +2,9 @@
 </p>
 
 <p align="center"><strong>Java & NetSuite Developer</strong> with 4 years of experience.</p>
-<p align="center">- 📫 How to reach me: </p>
+<p align="center">📫 How to reach me: </p>
 
-[https://www.linkedin.com/in/dario-nieva-pastoriza](asd) <->
+[asd](https://www.linkedin.com/in/dario-nieva/) <->
 [https://twitter.com/cosaDeDevs](https://twitter.com/cosaDeDevs)
 
 <!---
