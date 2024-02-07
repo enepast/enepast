@@ -9,14 +9,14 @@ const aboutMe = {
       backEnd: {
          java: ["Java 8+", "Spring Framework", "Hibernate"],
          python (in progress): ["Python3", "Django Framework"],
-         js: ["Node", "SuiteScript"],
+         js: ["Node.js", "SuiteScript"],
          misc: ["Linux", "Maven", "JUnit", "Mockito", "Git", "Microservices Architecture"],
       },
       frontEnd: {
-         js: ["ReactJS"],
+         js: ["React"],
          css: ["Bootstrap", "Styled Components", "Modules"]
       },
-      databases: ["mySQL", "PostgreSQL", "MongoDB"],
+      databases: ["mySQL", "PostgreSQL"],
       dataAnalysis (in progress): ["Pandas"],
       messaging: ["Apache Kafka"],
       containerization: ["Docker"],
