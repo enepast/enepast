@@ -8,7 +8,7 @@ const aboutMe = {
    technologies: {
       backEnd: {
          java: ["Java 8+", "Spring Framework", "Hibernate"],
-         js: ["Vanilla", SuiteScript"],
+         js: ["Vanilla", "SuiteScript"],
          misc: ["Linux", "Maven", "Git", "Microservices Architecture"],
       },
       frontEnd: {
