@@ -8,7 +8,6 @@ const aboutMe = {
    technologies: {
       backEnd: {
          java: ["Java 8+", "Spring Framework", "Hibernate"],
-         python (in progress): ["Python3"],
          js: ["Vanilla", SuiteScript"],
          misc: ["Linux", "Maven", "Git", "Microservices Architecture"],
       },
@@ -21,5 +20,10 @@ const aboutMe = {
       containerization: ["Docker"],
       suiteTools: ["NetSuite", "SuiteBuilder"],
    },
+};
+
+const inProgress = {
+   cybersecurity: ["HTB CPTS", "OffSec OSCP"],
+   backEnd: "Python3",
 };
 ```
