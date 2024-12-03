@@ -8,16 +8,15 @@ const aboutMe = {
    technologies: {
       backEnd: {
          java: ["Java 8+", "Spring Framework", "Hibernate"],
-         python (in progress): ["Python3", "Django Framework"],
-         js: ["Node.js", "SuiteScript"],
-         misc: ["Linux", "Maven", "JUnit", "Mockito", "Git", "Microservices Architecture"],
+         python (in progress): ["Python3"],
+         js: ["Vanilla", SuiteScript"],
+         misc: ["Linux", "Maven", "Git", "Microservices Architecture"],
       },
       frontEnd: {
          js: ["React"],
          css: ["Bootstrap", "Styled Components", "Modules"]
       },
       databases: ["mySQL", "PostgreSQL"],
-      dataAnalysis (in progress): ["Pandas"],
       messaging: ["Apache Kafka"],
       containerization: ["Docker"],
       suiteTools: ["NetSuite", "SuiteBuilder"],
